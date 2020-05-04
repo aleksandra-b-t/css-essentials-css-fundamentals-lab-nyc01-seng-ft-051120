@@ -23,6 +23,7 @@ nav a {
   margin-right: auto; 
 }
 div {
-  text-align: center;
+  background-color: red;
+  width: 25%
 }
 
