@@ -7,6 +7,11 @@ body {
 p #featured-property {
   width: 800px;
 }
+footer {
+  text-align: center;  
+  width: 100%;
+
+}
 #details > div {
   float: left; 
 }
