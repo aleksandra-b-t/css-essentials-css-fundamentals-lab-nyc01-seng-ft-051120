@@ -13,7 +13,9 @@ footer {
 
 }
 #details > div {
-  text-align: center;
   float: left; 
+}
+div {
+  
 }
 
