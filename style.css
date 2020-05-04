@@ -9,9 +9,14 @@ p #featured-property {
 }
 footer {
   text-align: center;  
-  width: 100%;
-
+  width: 100%
+  
 }
+nav a {
+  padding:10;
+  background: #ccc;
+}
+
 #details > div {
   float: left; 
   margin-left: auto;
