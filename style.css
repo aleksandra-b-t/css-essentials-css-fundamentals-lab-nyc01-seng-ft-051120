@@ -2,4 +2,28 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center;
 }
+p #featured-property {
+  width: 800px;
+}
+footer {
+  text-align: center;  
+  width: 100%
+  
+}
+nav a {
+  padding:10;
+  background: #ccc;
+}
+
+#details > div {
+  float: left; 
+  margin-left: auto;
+  margin-right: auto; 
+}
+div {
+  background-color: red;
+  width: 25%
+}
+
