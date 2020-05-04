@@ -7,7 +7,7 @@ body {
 p #featured-property {
   width: 800px;
 }
-#details {
-  tex
+#details > div {
+  float: left; 
 }
 
